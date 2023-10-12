@@ -754,11 +754,7 @@ span {
     .home .home-content {
         max-width: 50rem;
     }
-    .home .home-content h1{
-        font-size: 3rem;
-        width: fit-content;
-        margin-top: 0em;
-    }
+
     
     .home .profession-container .profession-box {
         right: -35%;
@@ -889,9 +885,6 @@ span {
         display: flex;
         justify-content: center;
     }
-    .home-content, h1{
-        letter-spacing: .1em;
-    }
     .home .profession-box .profession {
         padding: 0 13px;
         left: auto;
@@ -946,11 +939,6 @@ span {
     .about-img img {
         width: 70vw;
         margin-top: -2rem;
-    }
-    .logo-ai{
-        position: relative;
-        left: 11em;
-
     }
     .testimonial-container .testimonial-wrapper {
         padding: 5rem 0;
